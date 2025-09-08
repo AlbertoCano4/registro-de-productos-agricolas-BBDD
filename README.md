@@ -1,5 +1,5 @@
 # registro-de-productos-agricolas-BBDD
-# 📊 Descripción del Proyecto
+# Descripción del Proyecto
 
 Este proyecto es un **trabajo final para un curso de Bases de Datos**, centrado en el diseño, implementación y migración de una base de datos para un sistema de **trazabilidad de productos alimentarios**.  
 
@@ -14,11 +14,11 @@ El trabajo abarca desde la planificación inicial hasta el análisis de riesgos 
 - Alberto Cano  
 - Nacho Fernández  
 
-📅 **Fecha de finalización:** 8 de diciembre de 2023  
+**Fecha de finalización:** 8 de diciembre de 2023  
 
 ---
 
-## 🚀 Fases del Proyecto
+## Fases del Proyecto
 
 ### 1. Planificación del trabajo
 - Lectura y análisis del problema.  
@@ -49,7 +49,7 @@ El trabajo abarca desde la planificación inicial hasta el análisis de riesgos 
 
 ---
 
-## 🛡️ Seguridad y Migración
+## Seguridad y Migración
 
 ### Análisis de riesgos
 Se identificaron riesgos potenciales en la implementación de la base de datos, tales como:  
@@ -73,6 +73,6 @@ Se identificaron riesgos potenciales en la implementación de la base de datos, 
 
 ---
 
-## 🔗 Enlaces
+## Enlaces
 
-📹 [Video acreditativo del trabajo](https://youtu.be/sbFhXJZrjAQ)  
+[Video acreditativo del trabajo](https://youtu.be/sbFhXJZrjAQ)  
